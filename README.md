@@ -28,14 +28,14 @@ Por ejemplo, si tienes archivos `.pdf`, `.docx` y `.xlsx`, el script creará car
 2. Ejecuta el script desde tu terminal o IDE:
 3.Ingrese la ruta del directorio a organizar:C:/Users/Admin/Documents
 
-Ejemplo de estructura
-Antes de ejecutar el script
+##Ejemplo de estructura
+## Antes de ejecutar el script
 Documents/
 ├─ archivo1.pdf
 ├─ archivo2.docx
 ├─ datos.xlsx
 
-Después de ejecutar el script
+##Después de ejecutar el script
 Documents/
 ├─ PDF/
 │  └─ archivo1.pdf
@@ -45,5 +45,4 @@ Documents/
 │  └─ datos.xlsx
 
 
-```bash
-python organizar_por_extension.py
+
